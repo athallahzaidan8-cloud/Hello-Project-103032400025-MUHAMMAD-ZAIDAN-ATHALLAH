@@ -1,3 +1,5 @@
+// hasil nya nya
+
 package main
 
 import "fmt"
