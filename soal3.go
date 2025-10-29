@@ -1,5 +1,5 @@
 // hasil nya nya
-
+m7
 package main
 
 import "fmt"
